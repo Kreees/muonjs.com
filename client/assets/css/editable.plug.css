@@ -1,0 +1,30 @@
+.editable {
+    position: relative !important;
+}
+
+.editable.edited .edit-input {
+    position: absolute;
+    top: 0; left: 0%;
+    width: 87%; height: 100%;
+    margin: 0; padding: 0 10% 0 3%; border: none;
+    box-shadow: none;
+    border-left: 1px solid #444;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.editable.edited .edit-input:hover {
+    box-shadow: rgba(0,0,0,0.1) 0 0 10px;
+}
+.editable.edited div.close {
+    cursor: pointer;
+    position: absolute;
+    top: 0px;
+    right: 10px;
+    opacity: .3;
+}
+.editable.edited div.close:hover {
+    opacity: .7;
+}
+
+

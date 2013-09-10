@@ -1,0 +1,46 @@
+div.row
+    div.span6
+        header
+            div.hero-unit
+                img.logo(src='/img/logo_muon_new.png')
+    div.span6
+        div.row
+            div.span6
+                p(data-tr="p_qstart")
+                div.code.large
+                    span $ sudo npm install -g muon
+                    br
+                    span $ muon-init hello_world && cd hello_world
+                    br
+                    span $ npm install
+                    br
+                    span $ node app.js
+                p(data-tr="p_qstart_continue")
+div.row
+    div.span12
+        h4(data-tr="h_gratis")
+        p.gratis(data-tr="p_gratis")
+hr
+div.row#powered_by
+    div.span12 Powered by
+br
+div.row#powered_imgs
+    div.span2#nodejs
+        a(href='//nodejs.org',target='new')
+            img(src='/img/logos/nodejs-light.jpg')
+    div.span2#mongo
+        a(href='//mongodb.org',target='new')
+            img(src='/img/logos/mongo.jpg')
+    div.span2#express
+        a(href='//expressjs.com',target='new')
+            img(src='/img/logos/expressjs.jpg')
+    div.span2#backbone
+        a(href='//backbonejs.org',target='new')
+            img(src='/img/logos/backbone.jpg')
+    div.span2#jquery
+        a(href='//jquery.com',target='new')
+            img(src='/img/logos/jQuery.jpg')
+    div.span2#underscore
+        a(href='//underscore.org',target='new')
+            img(src='/img/logos/underscorejs.jpg')
+div.row(style='height: 100px')

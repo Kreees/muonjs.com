@@ -1,0 +1,15 @@
+{
+  "host": "192.168.0.4",
+  "port": "8000",
+  "db_host": "127.0.0.1",
+  "lang": "ru",
+  "plugins": {
+    "muon": {}
+  },
+  "server_mode": "development",
+  "protocol": "http",
+  "db_name": "MuonSite",
+  "db_port": "",
+  "db_user": "",
+  "db_pass": ""
+}

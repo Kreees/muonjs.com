@@ -1,0 +1,59 @@
+div.tutor_img {
+  img {
+//    margin: 0px 5px;
+//    border: #bbb solid 1px;
+  }
+}
+
+p {
+  margin: 0 0 0 5px;
+  padding: 10px 15px;
+  text-align: justify;
+  transition: background 500ms;
+  -o-transition: background 500ms;
+  -moz-transition: background 500ms;
+  -webkit-transition: background 500ms;
+  &:hover {
+    background-color: #f3f3f3;
+  }
+}
+
+div.mark {
+  background-color: #cef;
+  border-left: 5px solid #458;
+  color: darkblue;
+  padding: 3px 0px;
+}
+
+div.mark * {
+  color: #458;
+}
+
+div.mark h1, div.mark h2, div.mark h3, div.mark h4, div.mark h5, div.mark h6 {
+  padding-left: 25px;
+}
+
+div.mark p {
+  font-size: 13px;
+}
+
+.mark p:hover {
+  background: none;
+}
+
+a[target] {
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEgAACxIB0t1+/AAAABx0RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTM5jWRgMAAAAUdEVYdENyZWF0aW9uIFRpbWUANi8zLzEwC6nc4QAAAGdJREFUGJWFj7sRgDAMQ5+5rECGgZaUZNi0qVkGhjBNDvIjqPNZ0rNFVenJu/VdiDB1XUCIhzyDKrJvS11pQzyuohEwTbrGggDaoHNTViDDG71b5wLdeyKZTsAC12djLZOl/40JMdQNLzYixzCOBQoAAAAASUVORK5CYII=);
+  background-repeat: no-repeat;
+  background-position: 100% 25%;
+  background-size: 7px 7px;
+  padding-right: 9px;
+}
+
+a[data-hover] {
+  font-weight: bold;
+  &:hover {
+    text-decoration: none;
+    cursor: pointer;
+    color: #800;
+  }
+}
