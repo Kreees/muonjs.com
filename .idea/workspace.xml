@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d13336e0-5f61-4c57-af83-a92fe0c62b91" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MuonSite.iws" />
@@ -38,7 +39,7 @@
     <file path="/index.html" changelist="d13336e0-5f61-4c57-af83-a92fe0c62b91" time="1377174041424" ignored="false" />
     <file path="$PROJECT_DIR$/../muon/client/packages/admin/views/model/user/user/create/create.coffee" changelist="d13336e0-5f61-4c57-af83-a92fe0c62b91" time="1376614053910" ignored="false" />
     <file path="/create.coffee" changelist="d13336e0-5f61-4c57-af83-a92fe0c62b91" time="1376614053910" ignored="false" />
-    <file path="$PROJECT_DIR$/../muon/.idea/workspace.xml" changelist="d13336e0-5f61-4c57-af83-a92fe0c62b91" time="1378829211150" ignored="false" />
+    <file path="$PROJECT_DIR$/../muon/.idea/workspace.xml" changelist="d13336e0-5f61-4c57-af83-a92fe0c62b91" time="1378829274462" ignored="false" />
     <file path="$PROJECT_DIR$/../muon/client/packages/admin/package.js" changelist="d13336e0-5f61-4c57-af83-a92fe0c62b91" time="1375337951804" ignored="false" />
     <file path="/session.js" changelist="d13336e0-5f61-4c57-af83-a92fe0c62b91" time="1377173886868" ignored="false" />
     <file path="/application.jade" changelist="d13336e0-5f61-4c57-af83-a92fe0c62b91" time="1378828921580" ignored="false" />
@@ -191,7 +192,7 @@
     <file path="$PROJECT_DIR$/../muon/client/packages/admin/views/layout/application/app_admin.coffee" changelist="d13336e0-5f61-4c57-af83-a92fe0c62b91" time="1378731604703" ignored="false" />
     <file path="/app_admin.coffee" changelist="d13336e0-5f61-4c57-af83-a92fe0c62b91" time="1378731868324" ignored="false" />
     <file path="$PROJECT_DIR$/../muon/client/packages/docs/views/layout/application/application.coffee" changelist="d13336e0-5f61-4c57-af83-a92fe0c62b91" time="1378731626640" ignored="false" />
-    <file path="/.gitignore" changelist="d13336e0-5f61-4c57-af83-a92fe0c62b91" time="1378829198769" ignored="false" />
+    <file path="/.gitignore" changelist="d13336e0-5f61-4c57-af83-a92fe0c62b91" time="1378829265426" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -232,7 +233,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="1" selection-start="15" selection-end="15" vertical-scroll-proportion="0.024630541">
+            <state line="5" column="5" selection-start="50" selection-end="50" vertical-scroll-proportion="0.12315271">
               <folding />
             </state>
           </provider>
@@ -686,7 +687,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="1" selection-start="15" selection-end="15" vertical-scroll-proportion="0.024630541">
+        <state line="5" column="5" selection-start="50" selection-end="50" vertical-scroll-proportion="0.12315271">
           <folding />
         </state>
       </provider>
