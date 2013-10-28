@@ -1,5 +1,5 @@
 module.exports = {
-    "use_app_layout": true,
+    "useAppLayout": true,
     pages: ["*"],
     routes: [
         {
@@ -22,22 +22,22 @@ module.exports = {
     ],
     surrogate: {
         "index": function(type){
-            if (this.index_type == type) return;
-            this.index_type = type;
-            this.m.set_projection("tutorial_index",{view:type+"_summary"});
+            if (this.indexType == type) return;
+            this.indexType = type;
+            this.m.setProjection("tutorial_index",{view:type+"_summary"});
         },
         "chapter": function(type,id,sub){
             var _this = this;
             this.index(type);
-            if (this.chapter_type != id){
-                this.chapter_type  = id;
-                this.m.set_projection("tutorial_chapter",{
+            if (this.chapterType != id){
+                this.chapterType  = id;
+                this.m.setProjection("tutorial_chapter",{
                     view: id.replace(/-/g,'_')+"_"+type+"_chapter",
                     index: type+"_index"
                 });
             }
             setTimeout(function(){
-                _this.current_page.focus(sub);
+                _this.currentPage.focus(sub);
             },300);
         }
     }
