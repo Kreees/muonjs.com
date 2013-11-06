@@ -6,7 +6,7 @@
   "plugins": {
     "muon": {}
   },
-  "server_mode": "development",
+  "server_mode": "production",
   "protocol": "http",
   "db_name": "MuonSite",
   "db_port": "",

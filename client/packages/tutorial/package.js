@@ -1,14 +1,15 @@
 module.exports = {
     "useAppLayout": true,
     pages: ["*"],
+    ready: function(cb){
+        cb();
+    },
     routes: [
         {
             route: "",
             redirect: "start"
         },
-        {
-            route: "start"
-        },
+        {route: "start"},
         {
             route: ":type",
             callback: "index",
