@@ -19,6 +19,6 @@ module.exports = m.rest.extend({
 		},
 		"search":function(req,res){
 			return m.rest.actions.search.apply(this,arguments);
-		},
+		}
 	}
 });

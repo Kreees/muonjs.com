@@ -1,3 +1,8 @@
 muon.ApplicationStackView.extend {
-  target: "target"
+  target: "target",
+  events: {
+    "click .signin": "signin"
+  }
+  signin: ->
+
 }

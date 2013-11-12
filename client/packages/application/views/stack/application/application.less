@@ -1,40 +1,7 @@
 @border_color: solid 1px #ddd;
 
-font-weight: light;
-
-.container#back_container {
-  position: fixed;
-  top: 0; bottom: 0;
-  right: 50%; left: 50%;
-  margin-left: -495px;
-  box-shadow: #aaa 0 0 50px;
-
-}
-
-div.header {
-  .navigation > div {
-    border-bottom: @border_color;
-  }
-  position: fixed;
-  top: 0;
-  .navbar {
-    form.navbar-search > input {
-      margin-top: 2px;
-      background-color: white;
-      border: solid 1px #ddd;
-      box-shadow: none;
-      color: black;
-      padding-left: 5px;
-      &:focus {
-
-      }
-    }
-  }
-}
-
-.overflow {
-  background-color: rgba(255,255,255,.8);
-  z-index: 1000;
+& {
+  font-weight: light;
 }
 
 #target {
@@ -43,26 +10,4 @@ div.header {
   ul.nav.nav-pills li a{
     font-size: 85%;
   }
-}
-
-div.rights {
-  position: absolute;
-  botton: 30px;
-//  margin-right: -25px;
-//  margin-left: -25px;
-  border-top: @border_color;
-  position: fixed;
-  & > div {
-    a {
-      color: #aaa;
-      text-decoration: none;
-    }
-    color: #aaa;
-    font-size: 12px;
-    &:last-child {
-      text-align: right;
-    }
-  }
-  padding-top: 10px;
-  padding-bottom: 10px;
 }

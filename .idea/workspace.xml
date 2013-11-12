@@ -2,12 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d13336e0-5f61-4c57-af83-a92fe0c62b91" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/packages/tutorial/dependency/css/tutorial_chapter.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/app/middleware/other.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/client/assets/css/bootstrap-responsive.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/client/assets/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/client/assets/js/vendor/backbone-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/client/assets/js/vendor/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/client/assets/js/vendor/file-upload.locale.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/client/assets/js/vendor/jquery-1.8.1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/client/assets/js/vendor/jquery.cookie.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/client/assets/js/vendor/jquery.easing.1.3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/client/assets/js/vendor/jquery.fileupload-fp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/client/assets/js/vendor/jquery.fileupload-ui.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/client/assets/js/vendor/jquery.fileupload.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/client/assets/js/vendor/jquery.iframe-transport.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/client/assets/js/vendor/jquery.jqote2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/client/assets/js/vendor/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/client/assets/js/vendor/jquery.ui.widget.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/client/assets/js/vendor/json2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/client/assets/js/vendor/less-1.3.0.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/client/assets/js/vendor/prettify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/client/assets/js/vendor/underscore-min.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.muon" afterPath="$PROJECT_DIR$/.muon" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/packages/application/views/stack/application/application.coffee" afterPath="$PROJECT_DIR$/client/packages/application/views/stack/application/application.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/css/application.css" afterPath="$PROJECT_DIR$/client/assets/css/application.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/packages/application/views/stack/application/application.jade" afterPath="$PROJECT_DIR$/client/packages/application/views/stack/application/application.jade" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/packages/tutorial/views/widget/chapter/general/hello_world/hello_world.jade" afterPath="$PROJECT_DIR$/client/packages/tutorial/views/widget/chapter/general/hello_world/hello_world.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/packages/application/views/stack/application/application.less" afterPath="$PROJECT_DIR$/client/packages/application/views/stack/application/application.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/client/assets/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/packages/tutorial/views/widget/chapter/chapter.jade" afterPath="$PROJECT_DIR$/client/packages/tutorial/views/widget/chapter/chapter.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/packages/tutorial/views/widget/chapter/chapter.less" afterPath="$PROJECT_DIR$/client/packages/tutorial/views/widget/chapter/chapter.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/packages/application/views/layout/page/contacts/contacts.jade" afterPath="$PROJECT_DIR$/client/packages/application/views/layout/page/contacts/contacts.jade" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/packages/application/views/layout/page/home/home.jade" afterPath="$PROJECT_DIR$/client/packages/application/views/layout/page/home/home.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/packages/application/views/layout/page/home/home.less" afterPath="$PROJECT_DIR$/client/packages/application/views/layout/page/home/home.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/index.html" afterPath="$PROJECT_DIR$/client/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/app/models/other.js" afterPath="$PROJECT_DIR$/server/app/models/other.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/packages/tutorial/views/widget/chapter/general/paradigms/paradigms.jade" afterPath="$PROJECT_DIR$/client/packages/tutorial/views/widget/chapter/general/paradigms/paradigms.jade" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/packages/tutorial/views/widget/chapter/general/sap/sap.jade" afterPath="$PROJECT_DIR$/client/packages/tutorial/views/widget/chapter/general/sap/sap.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/app/controllers/some.js" afterPath="$PROJECT_DIR$/server/app/controllers/some.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/packages/application/views/layout/page/start/start.jade" afterPath="$PROJECT_DIR$/client/packages/application/views/layout/page/start/start.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/packages/tutorial/dependency/css/tutorial_chapter.less" afterPath="$PROJECT_DIR$/client/packages/tutorial/dependency/css/tutorial_chapter.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MuonSite.iws" />
@@ -30,98 +65,7 @@
     <favorites_list name="MuonSite" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="hello_world.jade" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/packages/tutorial/views/widget/chapter/general/hello_world/hello_world.jade">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="179" column="15" selection-start="7884" selection-end="7884" vertical-scroll-proportion="0.0" vertical-offset="2205" max-vertical-offset="4515">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.jade" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/packages/application/views/stack/application/application.jade">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="33" selection-start="101" selection-end="101" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="525">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sap.jade" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/packages/tutorial/views/widget/chapter/general/sap/sap.jade">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="87" column="150" selection-start="12267" selection-end="12267" vertical-scroll-proportion="0.0" vertical-offset="860" max-vertical-offset="1425">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="paradigms.jade" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/packages/tutorial/views/widget/chapter/general/paradigms/paradigms.jade">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="44" selection-start="879" selection-end="879" vertical-scroll-proportion="-4.8" vertical-offset="0" max-vertical-offset="315">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tutor_index.less" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/packages/tutorial/dependency/css/tutor_index.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="300">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tutorial_chapter.less" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/client/packages/tutorial/dependency/css/tutorial_chapter.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="1" selection-start="46" selection-end="46" vertical-scroll-proportion="0.054151624" vertical-offset="0" max-vertical-offset="554">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.jade" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/packages/application/views/layout/page/home/home.jade">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="28" selection-start="342" selection-end="342" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="780">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="42" selection-start="849" selection-end="849" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="375">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="client_render.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/muon/server/lib/client/client_render.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="35" selection-start="455" selection-end="455" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="345">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sap.less" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/packages/tutorial/views/widget/chapter/general/sap/sap.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="14" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="180">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -139,28 +83,29 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/node_modules/muon/lib/m_init.js" />
-        <option value="$PROJECT_DIR$/client/packages/tutorial/package.js" />
-        <option value="$PROJECT_DIR$/node_modules/muon/lib/app.js" />
-        <option value="$PROJECT_DIR$/client/packages/tutorial/views/layout/page/start/start.coffee" />
-        <option value="$PROJECT_DIR$/node_modules/muon/client/muon.js/muon.js" />
-        <option value="$PROJECT_DIR$/client/packages/tutorial/views/layout/page/start/start.js" />
-        <option value="$PROJECT_DIR$/client/packages/tutorial/views/stack/application/application.coffee" />
-        <option value="$PROJECT_DIR$/client/packages/tutorial/views/widget/chapter/general/sap/sap.less" />
+        <option value="$PROJECT_DIR$/node_modules/muon/package.json" />
+        <option value="$PROJECT_DIR$/node_modules/muon/server/lib/models/models.js" />
+        <option value="$PROJECT_DIR$/client/packages/application/views/stack/application/application.coffee" />
+        <option value="$PROJECT_DIR$/client/packages/application/views/layout/page/start/start.jade" />
+        <option value="$PROJECT_DIR$/client/assets/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/client/assets/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/client/packages/application/views/layout/page/contacts/contacts.jade" />
+        <option value="$PROJECT_DIR$/client/assets/js/jquery.min.js" />
         <option value="$PROJECT_DIR$/client/index.html" />
-        <option value="$PROJECT_DIR$/node_modules/muon/server/lib/client/client_render.js" />
+        <option value="$PROJECT_DIR$/client/packages/application/views/layout/page/home/home.less" />
         <option value="$PROJECT_DIR$/client/packages/application/views/layout/page/home/home.jade" />
-        <option value="$PROJECT_DIR$/client/packages/tutorial/views/widget/chapter/general/hello_world/hello_world.jade" />
+        <option value="$PROJECT_DIR$/client/assets/css/application.css" />
         <option value="$PROJECT_DIR$/client/packages/application/views/stack/application/application.jade" />
-        <option value="$PROJECT_DIR$/client/packages/tutorial/views/widget/chapter/general/sap/sap.jade" />
-        <option value="$PROJECT_DIR$/client/packages/tutorial/views/widget/chapter/general/paradigms/paradigms.jade" />
-        <option value="$PROJECT_DIR$/client/packages/tutorial/dependency/css/tutorial_chapter.less" />
+        <option value="$PROJECT_DIR$/client/packages/tutorial/views/widget/chapter/chapter.jade" />
+        <option value="$PROJECT_DIR$/client/packages/application/views/stack/application/application.less" />
+        <option value="$PROJECT_DIR$/client/packages/tutorial/views/widget/chapter/chapter.less" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="22" />
-    <option name="width" value="1280" />
+    <option name="x" value="104" />
+    <option name="y" value="25" />
+    <option name="width" value="1070" />
     <option name="height" value="774" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -222,272 +167,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MuonSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MuonSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="packages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tutorial" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MuonSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MuonSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="packages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tutorial" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="widget" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MuonSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MuonSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="packages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tutorial" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="widget" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chapter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MuonSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MuonSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="packages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tutorial" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="widget" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chapter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="general" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MuonSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MuonSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="packages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tutorial" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="widget" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chapter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="general" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="paradigms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MuonSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MuonSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="packages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tutorial" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MuonSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MuonSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="packages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tutorial" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dependency" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MuonSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MuonSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="packages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tutorial" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dependency" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MuonSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MuonSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="packages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -514,11 +193,11 @@
       <recent name="$PROJECT_DIR$/node_modules/muon/_template_/client/assets/js" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/client/packages/application/views/stack" />
-      <recent name="$PROJECT_DIR$/client/packages/application/tr/ru/stack" />
-      <recent name="$PROJECT_DIR$/client/packages/application/tr/default/stack" />
-      <recent name="$PROJECT_DIR$/client/packages/tutorial/views/stack" />
-      <recent name="$PROJECT_DIR$/client/packages/tutorial/views/widget/chapter/data" />
+      <recent name="$PROJECT_DIR$/client/assets/js" />
+      <recent name="$PROJECT_DIR$/client/assets/css" />
+      <recent name="$PROJECT_DIR$/client/assets" />
+      <recent name="$PROJECT_DIR$/node_modules/muon/server/app/middleware/user" />
+      <recent name="$PROJECT_DIR$/node_modules/muon/server/app/controllers/user/oauth2" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.app.js">
@@ -588,14 +267,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="774" extended-state="0" />
-    <editor active="true" />
+    <frame x="104" y="25" width="1070" height="774" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32721713" sideWeight="0.9610183" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.283214" sideWeight="0.7293578" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28462273" sideWeight="0.6727829" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -604,7 +284,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32721713" sideWeight="0.9610183" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -623,10 +302,10 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.283214" sideWeight="0.7293578" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2706422" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="127" y="231" width="1089" height="390" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18854415" sideWeight="0.7293578" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2706422" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="127" y="231" width="1089" height="390" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -643,26 +322,55 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/node_modules/muon/server/lib/models/model_render.js">
+    <entry file="file://$PROJECT_DIR$/client/assets/js/jquery.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="41" selection-start="1883" selection-end="1883" vertical-scroll-proportion="0.35323384" vertical-offset="552" max-vertical-offset="1155" />
+        <state line="5" column="19453" selection-start="83613" selection-end="83613" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/muon/lib/app.js">
+    <entry file="file://$PROJECT_DIR$/client/assets/fonts/glyphicons-halflings-regular.svg">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="155" column="9" selection-start="5197" selection-end="5197" vertical-scroll-proportion="0.0" vertical-offset="2325" max-vertical-offset="3165" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/packages/tutorial/views/stack/application/application.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="31" selection-start="31" selection-end="31" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="626">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="2920" max-vertical-offset="3510">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/packages/tutorial/views/widget/chapter/general/env/env.coffee">
+    <entry file="file://$PROJECT_DIR$/client/packages/application/views/layout/page/home/home.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="426" />
+        <state line="15" column="34" selection-start="474" selection-end="474" vertical-scroll-proportion="0.38927335" vertical-offset="0" max-vertical-offset="765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/css/application.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="23" selection-start="413" selection-end="413" vertical-scroll-proportion="0.0" vertical-offset="113" max-vertical-offset="1515">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="35" selection-start="582" selection-end="582" vertical-scroll-proportion="0.26501766" vertical-offset="0" max-vertical-offset="566">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/phrase.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="20" selection-start="330" selection-end="330" vertical-scroll-proportion="0.2238806" vertical-offset="0" max-vertical-offset="6090">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/packages/tutorial/views/widget/chapter/chapter.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="50" selection-start="142" selection-end="142" vertical-scroll-proportion="-2.4" vertical-offset="0" max-vertical-offset="150">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/packages/tutorial/views/widget/chapter/general/env/env.jade">
@@ -672,77 +380,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/packages/tutorial/views/widget/chapter/general/sap/sap.less">
+    <entry file="file://$PROJECT_DIR$/client/packages/tutorial/views/layout/page/index/index.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="14" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="180">
+        <state line="0" column="64" selection-start="64" selection-end="64" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="90">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.json">
+    <entry file="file://$PROJECT_DIR$/client/packages/application/views/layout/page/home/home.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="16" selection-start="213" selection-end="213" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="315" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/muon/server/lib/client/client_render.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="35" selection-start="455" selection-end="455" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="42" selection-start="849" selection-end="849" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="375">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/packages/application/views/layout/page/home/home.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="28" selection-start="342" selection-end="342" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="780">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/packages/tutorial/views/widget/chapter/general/hello_world/hello_world.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="179" column="15" selection-start="7884" selection-end="7884" vertical-scroll-proportion="0.0" vertical-offset="2205" max-vertical-offset="4515">
+        <state line="28" column="32" selection-start="361" selection-end="361" vertical-scroll-proportion="-8.571428" vertical-offset="0" max-vertical-offset="825">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/packages/application/views/stack/application/application.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="33" selection-start="101" selection-end="101" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="525">
+        <state line="17" column="69" selection-start="855" selection-end="855" vertical-scroll-proportion="-10.2" vertical-offset="0" max-vertical-offset="510">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/packages/tutorial/views/widget/chapter/general/sap/sap.jade">
+    <entry file="file://$PROJECT_DIR$/client/packages/tutorial/views/layout/page/chapter/chapter.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="150" selection-start="12267" selection-end="12267" vertical-scroll-proportion="0.0" vertical-offset="860" max-vertical-offset="1425">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/packages/tutorial/views/widget/chapter/general/paradigms/paradigms.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="44" selection-start="879" selection-end="879" vertical-scroll-proportion="-4.8" vertical-offset="0" max-vertical-offset="315">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/packages/tutorial/dependency/css/tutor_index.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="603">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="580">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/packages/tutorial/dependency/css/tutorial_chapter.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="1" selection-start="46" selection-end="46" vertical-scroll-proportion="0.054151624" vertical-offset="0" max-vertical-offset="554">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="580">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/packages/application/views/stack/application/application.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="1" selection-start="159" selection-end="159" vertical-scroll-proportion="-3.6734693" vertical-offset="0" max-vertical-offset="270">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/packages/tutorial/views/widget/chapter/chapter.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="3" selection-start="104" selection-end="104" vertical-scroll-proportion="-2.4489796" vertical-offset="0" max-vertical-offset="975">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/packages/tutorial/views/layout/page/chapter/chapter.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="603">
           <folding />
         </state>
       </provider>
