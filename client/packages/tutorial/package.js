@@ -9,7 +9,9 @@ module.exports = {
             route: "",
             redirect: "start"
         },
-        {route: "start"},
+        {
+            route: "start"
+        },
         {
             route: ":type",
             callback: "index",

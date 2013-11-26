@@ -1,8 +1,5 @@
 muon.ApplicationStackView.extend {
   target: "target",
-  events: {
-    "click .signin": "signin"
-  }
-  signin: ->
-
+  connected: ->
+    alert("app connected")
 }

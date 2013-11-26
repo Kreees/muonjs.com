@@ -25,6 +25,6 @@ module.exports = {
 
     ],
     "ready": function(callback){
-            callback && callback();
+        callback && callback();
     }
 };

@@ -2,13 +2,13 @@
     "hdr_quick_start": "Быстрый старт",
     "p_qstart": [
         "<h5>Для быстрого запуска приложения:</h5>",
-        " - установите NodeJS",
+        "установите NodeJS",
         " ... <a data-route='/tutor/general/env/node'>как?</a>",
         "<br>",
-        " - установите и запустите демон MongoDB",
+        "установите и запустите демон MongoDB",
         " ... <a data-route='/tutor/general/env/mongo'>как?</a>",
         "<br>",
-        " - выполните в командной строке вашего MAC или Linux"
+        "выполните в командной строке вашего MAC или Linux"
     ],
     "p_qstart_continue": [
         "Ваш сервер запустится на 8000-м порту localhost.<br>",
