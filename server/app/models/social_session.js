@@ -1,3 +1,3 @@
 module.exports = {
-    extend: "MUON:user.session"
+    extends: "MUON:user.session"
 }

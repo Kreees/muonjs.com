@@ -2,7 +2,7 @@ module.exports = {
     "dependencies": [],
     "use_app_layout": true,
     "pages": ["*"],
-    "models": ["social_user"],
+    "models": ["social_*"],
     routes:[
         {
             route:"",
