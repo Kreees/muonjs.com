@@ -1,8 +1,6 @@
 div.row
-    div.span12
+    div.col-md-12
         ul.nav.nav-pills.pull-right
-            li
-                a(data-route='start') Вместо начала
             li
                 a(data-route='general') Общая часть
             li
@@ -14,5 +12,6 @@ div.row
             li
                 a(data-route='practice') Практика
 div.row
-    div.span12#target
+    div.col-md-8#target
+    div.col-md-4(data-widget-view='index',data-projection='tutorial_section')
 

@@ -1,0 +1,1 @@
+IndexWidget.extend {}

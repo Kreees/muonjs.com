@@ -7,10 +7,7 @@ module.exports = {
     routes: [
         {
             route: "",
-            redirect: "start"
-        },
-        {
-            route: "start"
+            redirect: "general"
         },
         {
             route: ":type",
@@ -27,16 +24,16 @@ module.exports = {
         "index": function(type){
             if (this.indexType == type) return;
             this.indexType = type;
-            this.m.setProjection("tutorial_index",{view:type+"_summary"});
+            this.m.setProjection("tutorial_section",{type: type});
         },
         "chapter": function(type,id,sub){
             var _this = this;
             this.index(type);
             if (this.chapterType != id){
                 this.chapterType  = id;
+                this.m.setProjection("tutorial_section",{type: type});
                 this.m.setProjection("tutorial_chapter",{
-                    view: id.replace(/-/g,'_')+"_"+type+"_chapter",
-                    index: type+"_index"
+                    type: id.replace(/-/g,'_')+"_"+type,
                 });
             }
             setTimeout(function(){
