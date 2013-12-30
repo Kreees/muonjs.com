@@ -7,9 +7,11 @@ window.IndexWidget = m.WidgetView.extend {
     offsetTop = @$el.offset().top
     offsetLeft = @$el.offset().left
     positionType = @$el.css("position");
-    window.addEventListener("scroll",(ev)=>
+    $(this.m).on("projection_update",->
+
+    )
+    @scrollListener = (ev)=>
       windowScroll = $(window).scrollTop();
-      console.log(windowScroll,offsetTop)
       if windowScroll > offsetTop - 50
         @$el.css({
           position: "fixed",
@@ -22,8 +24,9 @@ window.IndexWidget = m.WidgetView.extend {
           top: top,
           left: left
         })
-    )
-
+    window.addEventListener("scroll",@scrollListener)
+  removed: ->
+    window.removeEventListener("scroll",@scrollListener)
   events: {
     "click ol > ol": "selected_paragraph"
     "click div > ol > li": "selected_chapter"
