@@ -1,8 +1,13 @@
-div.tutor_img {
+div.tutor-img {
+  &.shadow {
+    padding: 20px;
+    img {
+      box-shadow: gray 0 0 20px;
+      border: #bbb solid 1px;
+    }
+  }
   img {
-    width: 100%;
-//    margin: 0px 5px;
-//    border: #bbb solid 1px;
+      width: 100%;
   }
 }
 
@@ -26,20 +31,22 @@ div.mark {
   padding: 3px 0px;
 }
 
-div.mark * {
-  color: #458;
-}
-
-div.mark h1, div.mark h2, div.mark h3, div.mark h4, div.mark h5, div.mark h6 {
-  padding-left: 25px;
-}
-
-div.mark p {
-  font-size: 13px;
-}
-
-.mark p:hover {
-  background: none;
+div.mark{
+  * {
+    color: #458;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    padding-left: 25px;
+  }
+  p {
+    font-size: 13px;
+    &:hover {
+      background: none;
+    }
+  }
+  a {
+    color: darken(#458,20%);
+  }
 }
 
 a[target] {
@@ -57,4 +64,8 @@ a[data-hover] {
     cursor: pointer;
     color: #800;
   }
+}
+
+pre {
+  padding: 10px 20px;
 }

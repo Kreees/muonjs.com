@@ -1,5 +1,43 @@
+@blueColor: rgb(66, 139, 202);
+
 & {
-  ol > ol {
-//    display: none;
+  li {
+    display: block;
+    &:before {
+      position: absolute;
+      left: 1em;
+      color: @blueColor;
+    }
+    list-style-type: none;
+    padding: 3px 0 3px 5px;
+    &.active {
+      background-color: @blueColor;
+      color: white;
+      * {
+        color: white;
+        text-shadow: gray 1px 0 0;
+        text-decoration: none;
+      }
+    }
+  }
+
+  ol {
+    counter-reset: list1;
+    li:before {
+      padding-left: 5px;
+      counter-increment: list1;
+      content: counter(list1) ". ";
+    }
+  }
+
+  ol ol {
+    counter-reset: list2;
+    display: none;
+    li:before {
+      position: absolute;
+      left: 3em;
+      counter-increment: list2;
+      content: counter(list1) "." counter(list2) ". ";
+    }
   }
 }

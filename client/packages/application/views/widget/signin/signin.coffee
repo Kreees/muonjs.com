@@ -21,7 +21,7 @@ m.WidgetView.extend {
       self = this;
       self.$el.addClass("loading");
       social = {};
-      type = e.currentTarget.dataset.pack;
+      type = e.currentTarget.getAttribute("data-pack");
       if type == "MUON:social.facebook"
         social.accessToken = r.accessToken
         social.socialId = r.userID
