@@ -1,0 +1,14 @@
+.code {
+    margin-bottom: 10px;
+    background-color: #f0f0f0;
+    color: black;
+    padding: 15px;
+    border-left: 4px solid #aaa;
+    font-family: "Courier New";
+    font-weight: lighter;
+    font-size: 12px;
+}
+
+.code.large {
+    font-size: 14px;
+}
