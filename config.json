@@ -4,7 +4,7 @@
   "dbHost": "127.0.0.1",
   "lang": "ru",
   "plugins": {
-    "MUON": {
+    "muon": {
         "packages": {
             "social.facebook": {
                 "appId": "366990056779964",
