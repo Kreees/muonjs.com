@@ -3,17 +3,17 @@
     "p_qstart": [
         "<h5>Для быстрого запуска приложения:</h5>",
         "установите NodeJS",
-        " ... <a data-route='/tutor/general/env/node'>как?</a>",
+        " ... <a data-route='//tutor/general/env/node'>как?</a>",
         "<br>",
         "установите и запустите демон MongoDB",
-        " ... <a data-route='/tutor/general/env/mongo'>как?</a>",
+        " ... <a data-route='//tutor/general/env/mongo'>как?</a>",
         "<br>",
         "выполните в командной строке вашего MAC или Linux"
     ],
     "p_qstart_continue": [
         "Ваш сервер запустится на 8000-м порту localhost.<br>",
         "Для сведений о дальнейшей настройки сервера добро пожаловать в ",
-        "<a data-route='/tutor/'>туториал!</a>"
+        "<a data-route='//tutor/'>туториал!</a>"
     ],
     "h_gratis":"Привет!",
     "p_gratis":[

@@ -1,0 +1,247 @@
+{
+  "files": {
+    "js/jquery.min.js": {
+      "mime": "application/javascript",
+      "hash": "6d37b2cc7b8a9b06487e3b0a8ffbc24cc32abbefe4c21e7531ae0543a9aaa829"
+    },
+    "js/bootstrap.js": {
+      "mime": "application/javascript",
+      "hash": "20f9dc1b8566a371cc3e871516427ca49165c3c5ee486801240fe3e725da235c"
+    },
+    "muon.js": {
+      "mime": "text/javascript",
+      "hash": "1f86af17a54e2b42bea09eaff70b7749358c039f8d5b3f7141744ce51eb13ead"
+    },
+    "favicon.ico": {
+      "mime": "image/x-icon",
+      "hash": "252b14cab6239909ed298558853342bef9f356a47782fb36ac7bc347047db196"
+    },
+    "css/bootstrap.min.css": {
+      "mime": "text/css",
+      "hash": "1e3b05336944dc8257502af3b9d063bd66295c799afe9ae1368eddfb4db6e250"
+    },
+    "css/bootstrap-theme.min.css": {
+      "mime": "text/css",
+      "hash": "3c548748deae47704d113023d010973051946d90f39b23f587ce28637344f4a1"
+    },
+    "css/editable.plug.css": {
+      "mime": "text/css",
+      "hash": "e243f9620a515aa59f6d956c5ad92cd2f412afd709e0825598092d0a8eb6bacc"
+    },
+    "css/prettify.css": {
+      "mime": "text/css",
+      "hash": "9a33ffbd93e9517329d0af31fa9f02c0cadb3094ae20f4e5b4d2266e58265d57"
+    },
+    "css/application.css": {
+      "mime": "text/css",
+      "hash": "e76e8fba9db9f83619b344721b3960a9df1a5ba0143acf7602795ca120fd967b"
+    },
+    "pack_src/application/loading.gif": {
+      "mime": "image/gif",
+      "hash": "332f118ebd84825e015366bbbf46031565da3606934784890891bc496f66c9a8"
+    },
+    "pack_src/tutorial/MVC-Process.png": {
+      "mime": "image/png",
+      "hash": "663bba03fd8b9348d5014e883d78988c88d1d2299505d8df746da21f0c3942c7"
+    },
+    "pack_src/tutorial/alert_popup.png": {
+      "mime": "image/png",
+      "hash": "c278d40daf9c5a398c7affc74ee18d05253bb153c5da39e00bf3c64babe06d05"
+    },
+    "pack_src/tutorial/app_page_struct.png": {
+      "mime": "image/png",
+      "hash": "ec918bfb23eb83504930634e0b52497ac22347e287a466f6b0aff2ba6d7c223a"
+    },
+    "pack_src/tutorial/complex_app_page_struct.png": {
+      "mime": "image/png",
+      "hash": "a594bc114d1df77eb5e460a29594fbc9bdc3f05c5b73d1b5763b36beeb773e07"
+    },
+    "pack_src/tutorial/hello_screenshot.png": {
+      "mime": "image/png",
+      "hash": "ad7d40d141e4324cb2e39f79d754692c1977c52b50bb4d9b8f34805517aa3ba1"
+    },
+    "pack_src/tutorial/js_css_html.png": {
+      "mime": "image/png",
+      "hash": "7d14b3c10ab3ee111d4859f6c9a29b21ccc972785fcd568922a1603c618fcf1f"
+    },
+    "pack_src/tutorial/main_page_but_added.png": {
+      "mime": "image/png",
+      "hash": "6d5b20b2d718083832bdd6325227333e91a9c93b6b9537a7aab0c5a39355006a"
+    },
+    "pack_src/tutorial/model_relations.png": {
+      "mime": "image/png",
+      "hash": "2d567a23008174d72fd52406d5a10768ea22ed1f2d967850e44252019ca8171d"
+    },
+    "pack_src/tutorial/page_calendar.png": {
+      "mime": "image/png",
+      "hash": "d998478210acdcacbc00a90298281a475533512861417d2ece283deaa6e332cf"
+    },
+    "pack_src/tutorial/page_index.png": {
+      "mime": "image/png",
+      "hash": "8ba4b717a7e23e1c82f661e5f05a04fdc0f6554af42db1c2d7ad613925e256ab"
+    },
+    "pack_src/tutorial/page_with_routes.png": {
+      "mime": "image/png",
+      "hash": "db52504158db318a9ba9b8190ff7afe839b6d71fc09213563898ad20521b8968"
+    },
+    "pack_src/tutorial/wrong_page.png": {
+      "mime": "image/png",
+      "hash": "038d6013a1a129663d66c65a37c85b24a5996ea8399cdb0c09a6f8bb95ce69e9"
+    },
+    "pack_src/MUON:admin/mystery-man.jpg": {
+      "mime": "image/jpeg",
+      "hash": "8bff77cb90a47147468b68b1f8cf0a20e825aed636707d796bf3637c399d6520"
+    },
+    "pack_src/MUON:social.facebook/facebook_logo_detail.gif": {
+      "mime": "image/gif",
+      "hash": "40546a1088bcf78f9a4062ae19e29839cb3b11ab9937ca420269fe64e39d01ac"
+    },
+    "pack_src/MUON:social.google/google_plus.png": {
+      "mime": "image/png",
+      "hash": "c59f3bef905bd28ab6218ca60f82427c0c0053f9a19fc1cd451fe74a1f688350"
+    },
+    "pack_translation/default": {
+      "mime": "application/json",
+      "hash": "364ef74458685a8e4bdc41e38b0ef3863e2fb6f6922b98c1676bf44de72e55d6"
+    },
+    "pack_translation/ru": {
+      "mime": "application/json",
+      "hash": "e8eddbe57c337c640244e2ba6dbe11cac2e994bbd74879bc5c500ddb1ae74906"
+    },
+    "pack_translation/en": {
+      "mime": "application/json",
+      "hash": "364ef74458685a8e4bdc41e38b0ef3863e2fb6f6922b98c1676bf44de72e55d6"
+    },
+    "pack/MUON:social.facebook": {
+      "mime": "text/javascript",
+      "hash": "12d5759557f70dd93575e5f3b1962b9239ca92a38a771a3622b0466ad8a1f807"
+    },
+    "pack/MUON:social.google": {
+      "mime": "text/javascript",
+      "hash": "821b85abbb02b8f59c78a9e32345f2300d5fe4e52b41e924dab859a5112c5a93"
+    },
+    "pack/application": {
+      "mime": "text/javascript",
+      "hash": "95bbc191064c7e653fbc50d094c2cdf9a368a7ba4b0e758cfc57355b36362482"
+    },
+    "pack/tutorial": {
+      "mime": "text/javascript",
+      "hash": "576a73318c129b5d4bcbaa863335de66f5f31d8381dd9c453a863b99a22a5730"
+    },
+    "pack/MUON:admin": {
+      "mime": "text/javascript",
+      "hash": "a31d81722ba745ae4c6e40e603e34241c453d620f17f89a990cd862170794ac6"
+    },
+    "pack/MUON:docs": {
+      "mime": "text/javascript",
+      "hash": "9cdd0b172be65def483f6f6be9cf88fa71789f7bd5b25d185e834ae68b5882a2"
+    },
+    "fonts/glyphicons-halflings-regular.eot": {
+      "mime": "application/vnd.ms-fontobject",
+      "hash": "be6ac85e065c5b9f36b6ab188d8540012305eedfa592c838da0cd1767bd718e0"
+    },
+    "fonts/glyphicons-halflings-regular.svg": {
+      "mime": "image/svg+xml",
+      "hash": "cef3dffcef386be2c8d1307761717e2eb9f43c151f2da9f1647e9d454abf13a3"
+    },
+    "fonts/glyphicons-halflings-regular.ttf": {
+      "mime": "application/x-font-ttf",
+      "hash": "20935784fb4914147de1f2382a591c17c3fc997cc931387dc1fd8b14e21ed74d"
+    },
+    "fonts/glyphicons-halflings-regular.woff": {
+      "mime": "application/font-woff",
+      "hash": "8023d715e4a47f2db4ec12a738b958edc04ecf452938f60c906e5153f4e2d931"
+    },
+    "img/ajax-loader-flat.gif": {
+      "mime": "image/gif",
+      "hash": "bb4d955868333044e6ba4e6ac6bdfe2c4b376882ac6eb606937333431e63e5d8"
+    },
+    "img/glyphicons-halflings-white.png": {
+      "mime": "image/png",
+      "hash": "0c789efad3176313ae7f137651205423e030136544c4080e9422ca977ae30144"
+    },
+    "img/glyphicons-halflings.png": {
+      "mime": "image/png",
+      "hash": "fecf625cdd5d0699f9d716da59e4e563bba189bc9431629172f4657a2ec616a6"
+    },
+    "img/logo_muon.png": {
+      "mime": "image/png",
+      "hash": "9225426b8d044f73893557e1224040e1983365914f3d3fa7511d37b182f1140b"
+    },
+    "img/logo_muon_new.png": {
+      "mime": "image/png",
+      "hash": "002f44193aaa7c39b434d31dde93ba7d837b5fb1fddaab964d530338aff60426"
+    },
+    "img/logos/backbone.jpg": {
+      "mime": "image/jpeg",
+      "hash": "f618433c236cf31a955c0bfdeb377688144a94a9056769a7afe5bcae45aeb5ee"
+    },
+    "img/logos/expressjs.jpg": {
+      "mime": "image/jpeg",
+      "hash": "54f61cce38e092fbcc2bc20a6c5d9081c8ed3bb448904f9cc83218e310eb7a6e"
+    },
+    "img/logos/jQuery.jpg": {
+      "mime": "image/jpeg",
+      "hash": "608134dda980e82726f7c9b59a7abce369bb1abb32b9a2d1a986d8d9f3e3a834"
+    },
+    "img/logos/logo_jetbrains.gif": {
+      "mime": "image/gif",
+      "hash": "ebcfb95a887663885c09fb6d058fd770ce4302553e99082ca6ea24dee825d344"
+    },
+    "img/logos/mongo.jpg": {
+      "mime": "image/jpeg",
+      "hash": "6dc77f08fc2e0814295d11a8592e09a99097dbb0fb25e999ad4a9e2a418489ce"
+    },
+    "img/logos/nodejs-light.jpg": {
+      "mime": "image/jpeg",
+      "hash": "55a2d1a3b54588766574ba12ffbc25ea978905bf34e388aeb97f44aa77c2d083"
+    },
+    "img/logos/underscorejs.jpg": {
+      "mime": "image/jpeg",
+      "hash": "d5f9267c1030bfb6c9a7681e8c3a1a227f7cdec7599dcb9847f38d1ebaacaaf8"
+    },
+    "img/mystery-man.jpg": {
+      "mime": "image/jpeg",
+      "hash": "8bff77cb90a47147468b68b1f8cf0a20e825aed636707d796bf3637c399d6520"
+    },
+    "js/lib/jquery.editable.js": {
+      "mime": "application/javascript",
+      "hash": "ad8ac19dc24bb065ee213e076adecac696d065625b79732e72296fdbfec72a40"
+    },
+    "js/md5.js": {
+      "mime": "application/javascript",
+      "hash": "84699f55292b5544be2b9a614f4d17396c96faf969b536296341cb09478c4e0d"
+    },
+    "types/HelveticaNeueCyr-Thin.otf": {
+      "mime": "font/opentype",
+      "hash": "de60932f696acaec65444611b8c2f3bc7aad7be983cd9c60c4d5a383df8f5797"
+    },
+    "types/HelveticaNeueCyr-UltraLight.otf": {
+      "mime": "font/opentype",
+      "hash": "6322eeec75c631a0f67bd8a5e81db065a2d51c8a679d851231d06b1ca7148a01"
+    },
+    "types/HelveticaNeueUltraLight.ttf": {
+      "mime": "application/x-font-ttf",
+      "hash": "be66c7d8cc2b7dfbe9f2972efe7f0ada5119aa0fa8218ce05f9624b3c4f4de7f"
+    },
+    "types/TrendexLightSSi.TTF": {
+      "mime": "application/x-font-ttf",
+      "hash": "59b4ab916b45ec3e90fc83514e1bfacacbc4e7416a77e34edfd75be2899e6f9e"
+    },
+    "types/helveticaneuecyrultralight.ttf": {
+      "mime": "application/x-font-ttf",
+      "hash": "47878b3a642deb5db21611207c726dbd3ebb493d517c1f23f1a33838cd6714ab"
+    },
+    "types/lowvetica_ultrathin.ttf": {
+      "mime": "application/x-font-ttf",
+      "hash": "77c165edec9660ae894151ea701bd85a6ea48f75aa5af986cb67cd6157ef5647"
+    },
+    "index.html": {
+      "mime": "text/html",
+      "hash": "f743490520612588712e6994465dc2e6a48a4bc1b4923f8e7a376c04d4e2a9ea"
+    }
+  },
+  "package": "application",
+  "secure": false,
+  "hash": "4e041c442dc3a9e646dc7cca6755d5ff26b2067905a926687212c07d98177125"
+}

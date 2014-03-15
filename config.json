@@ -1,9 +1,9 @@
 {
-  "host": "0.0.0.0",
-  "port": "8000",
-  "dbHost": "127.0.0.1",
-  "lang": "ru",
-  "plugins": {
+    "host": "192.168.0.5",
+    "port": "8000",
+    "dbHost": "127.0.0.1",
+    "lang": "ru",
+    "plugins": {
     "muon": {
         "packages": {
             "social.facebook": {
@@ -13,15 +13,19 @@
             }
         }
     }
-  },
-  "serverMode": "development",
-  "protocol": "http",
-  "db": {
+    },
+    "serverMode": "development",
+    "protocol": "http",
+    "https": {
+        "key":"server.key",
+        "cert": "server.crt"
+    },
+    "db": {
       "default": {
           "name": "",
           "port": "",
           "user": "",
           "pass": ""
       }
-  }
+    }
 }
