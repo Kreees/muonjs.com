@@ -8,8 +8,10 @@
         "reload": "npm stop && npm start"
     },
     "dependencies": {
-        "muon": "*",
         "q": "*",
 	"underscore":"*"
+    },
+    "devDependencies": {
+    	"muon":"*"
     }
 }
