@@ -1,21 +1,8 @@
 {
-    "host": "192.168.0.5",
+    "host": "0.0.0.0",
     "port": "8000",
     "dbHost": "127.0.0.1",
     "lang": "ru",
-    "plugins": {
-    "muon": {
-        "packages": {
-            "social.facebook": {
-                "appId": "366990056779964",
-                "appSecret": "738e397389ec41e1f152167d7f8429de",
-                "scope": ""
-            }
-        }
-    }
-    },
-    "serverMode": "development",
-    "protocol": "http",
     "db": {
       "default": {}
     }
