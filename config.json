@@ -16,16 +16,7 @@
     },
     "serverMode": "development",
     "protocol": "http",
-    "https": {
-        "key":"server.key",
-        "cert": "server.crt"
-    },
     "db": {
-      "default": {
-          "name": "",
-          "port": "",
-          "user": "",
-          "pass": ""
-      }
+      "default": {}
     }
 }
